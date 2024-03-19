@@ -1,16 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 Hi! My name is Tykhin Biriukov
 =======================================================================================================================================
 
 I am an aspiring backend developer. My path in it started with Klagenfurt University, where I am currently studying. I'm currently in my 2nd semester at Robotics & AI and I'm eager to learn more. I am also looking for internships to expand my capabilities!
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
+![Snake animation](https://github.com/{{TykhinBiriukov}}/{{TykhinBiriukov}}/blob/output/github-contribution-grid-snake.svg)
 ### Skills
 
 
