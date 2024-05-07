@@ -9,7 +9,7 @@ I am an aspiring backend developer. My path in it started with Klagenfurt Univer
 - 🌱 I’m currently expanding my cooding knowledge   
   
 
-- ⚡ Why do Java programmers have to wear glasses? Because they don’t C#
+- ⚡ Why do Java programmers have to wear glasses? Because they don’t C
   
 
 
