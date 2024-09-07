@@ -1,12 +1,12 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tykhin Biriukov
 =======================================================================================================================================
 
-I am an aspiring backend developer. My path in it started with Klagenfurt University, where I am currently studying. I'm currently in my 2nd semester at Robotics & AI and I'm eager to learn more. I am also looking for internships to expand my capabilities!
-- 🎓 2nd semester Robotics & AI student
+I am an aspiring backend developer. My path in it started with Klagenfurt University, where I am currently studying. I'm in my 3nd semester at Robotics & AI and I'm eager to learn more. I am also looking for internships to expand my capabilities!
+- 🎓 3nd semester Robotics & AI student
 
   
 
-- 🌱 I’m currently expanding my cooding knowledge   
+- 🌱 I’m expanding my cooding knowledge   
   
 
 - ⚡ Why do Java programmers have to wear glasses? Because they don’t C
