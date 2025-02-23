@@ -2,7 +2,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 =======================================================================================================================================
 
 I am an aspiring backend developer. My path in it started with Klagenfurt University, where I am currently studying. I'm in my 3nd semester at Robotics & AI and I'm eager to learn more. I am also looking for internships to expand my capabilities!
-- 🎓 3nd semester Robotics & AI student
+- 🎓 4th semester Robotics & AI student
 
   
 
@@ -11,31 +11,6 @@ I am an aspiring backend developer. My path in it started with Klagenfurt Univer
 
 - ⚡ Why do Python programmers have to wear glasses? Because they don’t C
   
-
-
-
-### Skills
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
-
-### Socials
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-</div>
 
 
 <b>My GitHub Stats</b>
